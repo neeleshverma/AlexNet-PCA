@@ -1,6 +1,9 @@
 # AlexNet PCA Visualization and Analysis
 
-The PCA for data augmentation described in the AlexNet paper looked interesting, so wanted to visualize it and do some analysis for the random variable being used in the paper
+The PCA for data augmentation described in the AlexNet paper [[1]](#1) looked interesting, so wanted to visualize it and do some analysis on it.  
 
 ## References
-ImageNet Classification with Deep Convolutional Neural Networks (AlexNet) - https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+<a id="1">[1]</a> 
+Krizhevsky et al., 2012.
+[Imagenet classification with deep convolutional neural networks](https://arxiv.org/pdf/2004.08796.pdf).
+In NIPS, 2012.
